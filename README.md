@@ -1,4 +1,4 @@
 # controlDesk
-CAC Control Desk
+Control Desk
 
 Built using AngularJS
